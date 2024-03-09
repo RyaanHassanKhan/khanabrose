@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **c++**
 
-- 📫 How to reach me **choibrahimkhan0@gmail.com**
+- 📫 How to reach me **choibrahimkhan786@gmail.com**
 
 - ⚡ Fun fact **There are more 700 coding languages out there!**
 
