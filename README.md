@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ibrahim khan</h1>
+<h1 align="center">Hi 👋, I'm Cho Ibrahim khan</h1>
 <h3 align="center">I’m currently studying computer science and engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanabrose&label=Profile%20views&color=0e75b6&style=flat" alt="khanabrose" /> </p>
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **cyber security**
 
 - 📫 How to reach me **choibrahimkhan786@gmail.com**
 
